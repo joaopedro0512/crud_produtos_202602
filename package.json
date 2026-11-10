@@ -1,0 +1,25 @@
+{
+  "name": "crud_produtos_202602",
+  "version": "1.0.0",
+  "description": "CRUD de produtos desenvolvido em sala de aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedro0512/crud_produtos_202602.git"
+  },
+  "keywords": [],
+  "author": "joão pedro fernandes",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joaopedro0512/crud_produtos_202602/issues"
+  },
+  "homepage": "https://github.com/joaopedro0512/crud_produtos_202602#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
